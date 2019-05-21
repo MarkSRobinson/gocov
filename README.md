@@ -2,11 +2,11 @@
 
 Coverage reporting tool for The Go Programming Language
 
-[![Build Status](https://drone.io/github.com/axw/gocov/status.png)](https://drone.io/github.com/axw/gocov/latest)
+[![Build Status](https://drone.io/github.com/MarkSRobinson/gocov/status.png)](https://drone.io/github.com/MarkSRobinson/gocov/latest)
 
 ## Installation
 
-```go get github.com/axw/gocov/gocov```
+```go get github.com/MarkSRobinson/gocov/gocov```
 
 ## Usage
 

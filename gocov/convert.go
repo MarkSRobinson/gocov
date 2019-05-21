@@ -30,8 +30,8 @@ import (
 
 	"golang.org/x/tools/cover"
 
-	"github.com/axw/gocov"
-	"github.com/axw/gocov/gocovutil"
+	"github.com/MarkSRobinson/gocov"
+	"github.com/MarkSRobinson/gocov/gocovutil"
 )
 
 func convertProfiles(filenames ...string) error {
